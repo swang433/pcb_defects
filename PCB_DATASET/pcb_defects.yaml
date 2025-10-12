@@ -1,0 +1,6 @@
+path: D:/Code/ML_Python/defect_det/PCB_DATASET/yolo_dataset
+train: train/images
+val: val/images
+
+nc: 6
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur', 'spurious_copper']

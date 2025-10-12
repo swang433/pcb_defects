@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+defect_venv/
+venv/
+env/
+
+# ALL dataset files except YAML
+PCB_DATASET/Annotations/
+PCB_DATASET/images/
+PCB_DATASET/labels/
+PCB_DATASET/yolo_dataset/
+PCB_DATASET/rotation/
+PCB_DATASET/rotate.py
+*.jpg
+*.jpeg
+*.png
+*.xml
+
+# Keep only the config
+!PCB_DATASET/pcb_defects.yaml
+
+# Training outputs
+training_runs/
+inference_results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
