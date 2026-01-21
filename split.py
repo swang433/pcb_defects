@@ -3,9 +3,9 @@ from pathlib import Path
 import random
 
 # Paths
-images_dir = Path(r"D:\Python\defect_det\PCB_DATASET\images")
-labels_dir = Path(r"D:\Python\defect_det\PCB_DATASET\labels")
-output_dir = Path(r"D:\Python\defect_det\PCB_DATASET\yolo_dataset")
+images_dir = Path("PCB_DATASET\images")
+labels_dir = Path("PCB_DATASET\labels")
+output_dir = Path("PCB_DATASET\yolo_dataset")
 
 # Create structure
 for split in ['train', 'val']:

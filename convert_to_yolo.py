@@ -33,9 +33,9 @@ def convert_voc_to_yolo(xml_file, img_width, img_height, class_names):
     return yolo_labels
 
 # Paths
-annotations_dir = r"D:\Python\defect_det\PCB_DATASET\Annotations"
-images_dir = r"D:\Python\defect_det\PCB_DATASET\images"
-output_labels_dir = r"D:\Python\defect_det\PCB_DATASET\labels"
+annotations_dir = "PCB_DATASET\Annotations"
+images_dir = "PCB_DATASET\images"
+output_labels_dir = "PCB_DATASET\labels"
 
 # Create output directory
 os.makedirs(output_labels_dir, exist_ok=True)
