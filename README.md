@@ -42,7 +42,7 @@
 
 ## Acknowledgements
 
-Dataset: [text](https://www.kaggle.com/code/sunnyconsultant/pcb-defects-detected-by-yolo-v5)
+Dataset: [Link](https://www.kaggle.com/code/sunnyconsultant/pcb-defects-detected-by-yolo-v5)
 
 Built as a practical learning experience to demonstrate: 
 - Training a multi-layered convolutional neural network with obtained data
