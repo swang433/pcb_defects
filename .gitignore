@@ -35,3 +35,4 @@ Thumbs.db
 
 #pretrained models
 yolov8s.pt
+yolo11n.pt
