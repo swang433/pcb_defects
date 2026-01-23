@@ -32,3 +32,6 @@ inference_results/
 # OS
 .DS_Store
 Thumbs.db
+
+#pretrained models
+yolov8s.pt
