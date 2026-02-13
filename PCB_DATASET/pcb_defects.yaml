@@ -1,4 +1,4 @@
-path: D:/Code/ML_Python/defect_det/PCB_DATASET/yolo_dataset
+path: defect_det/PCB_DATASET/yolo_dataset
 train: train/images
 val: val/images
 
