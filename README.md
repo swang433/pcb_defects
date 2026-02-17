@@ -62,4 +62,4 @@ Built as a practical learning experience to demonstrate:
 
 ---
 
-**Last Updated:** 
+**Last Updated:** January 2026
